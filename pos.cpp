@@ -3,7 +3,7 @@
 #include <ctime>
 
 using namespace std;
-static int nodenumber =0;
+static int nn =0;
 string hashvalfun(string name,float value,int id)
 {
     stringstream stream,ss;
@@ -78,6 +78,7 @@ void insertnode(user u,float val)
     cout<<"enter value float";
     cin>>temp->d.value;
     temp->d.hashval=hashvalfun(temp->d.ownername,temp->d.value,temp->d.ownerid);
+    temp->nodenumber=nn++;
 
 }
 int main()
