@@ -1,12 +1,12 @@
 # posist-test
-working of the time function 
+<h1>working of the time function </h1>
 <img src= "https://github.com/vaibhavdaren/posist-test/blob/master/posist.PNG">
 
-working of hash function 
+<h1>working of hash function</h1> 
 <img src= "https://github.com/vaibhavdaren/posist-test/blob/master/hashkey.PNG">
 
 
-working of authentication of user super-user
+<h1>working of authentication of user super-user</h1>
 <img src= "https://github.com/vaibhavdaren/posist-test/blob/master/main1.PNG">
 
 <img src= "https://github.com/vaibhavdaren/posist-test/blob/master/main 2.PNG">
